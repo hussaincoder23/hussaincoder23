@@ -31,6 +31,11 @@ I have experience working with a wide range of technologies and tools. Here are 
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+### Extra skills
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) 
+![Liquid](https://img.shields.io/badge/Liquid-FF6F00?style=flat-square&logo=liquid&logoColor=white)
+
 ### Crypto Payments Accepted
 
 You can help through any of cryptocurrencies for payments and donations for my contributions if you like my work :
